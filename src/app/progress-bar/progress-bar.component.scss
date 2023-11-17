@@ -1,0 +1,16 @@
+:host{
+    display: block;
+    height: 20px;
+    width: 80%;
+    margin: 4px auto;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: white;
+
+    div {
+        background-color: green;
+        height: 100%;
+        width: 30%;
+        border-radius: 11px;
+    }
+}
